@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Anish-Roy.github.io/al-folio/sitemap.xml
+Sitemap: https://Anish-Roy.github.io/sitemap.xml
